@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="200px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip78">
+      <path d="M 10 200  C 4.45 200  0 195.55  0 190  L 0 10  C 0 4.45  4.45 0  10 0  L 350 0  C 355.55 0  360 4.45  360 10  L 360 190  C 360 195.55  355.55 200  350 200  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 0 0  L 360 0  L 360 200  L 0 200  L 0 0  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip78)" />
+    <path d="M 14 14  L 346 14  L 346 186  L 14 186  L 14 14  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip78)" />
+    <path d="M 202.20000000000002 60  C 193.8 60  187.20000000000002 53.4  187.20000000000002 45  C 187.20000000000002 36.6  193.8 30  202.20000000000002 30  C 210.60000000000002 30  217.20000000000002 36.6  217.20000000000002 45  C 217.20000000000002 53.4  210.60000000000002 60  202.20000000000002 60  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip78)" />
+    <path d="M 19 181  L 19 91.89999999999999  L 99.5 51.400000000000006  L 212.2 127  L 276.6 75.7  L 341 127  L 341 181  L 19 181  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip78)" />
+  </g>
+</svg>
