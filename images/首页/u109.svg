@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="15" x2="30" y2="15" id="LinearGradient93">
-      <stop id="Stop94" stop-color="#94e080" offset="0" />
-      <stop id="Stop95" stop-color="#06b3a6" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="15" x2="30" y2="15" id="LinearGradient371">
+      <stop id="Stop372" stop-color="#94e080" offset="0" />
+      <stop id="Stop373" stop-color="#06b3a6" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip96">
+    <mask fill="white" id="Clip374">
       <path d="M 15 30  C 6.6 30  0 23.400000000000002  0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -140 -238 )">
-    <path d="M 15 30  C 6.6 30  0 23.400000000000002  0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  Z " fill-rule="nonzero" fill="url(#LinearGradient93)" stroke="none" transform="matrix(1 0 0 1 140 238 )" class="fill" />
-    <path d="M 15 30  C 6.6 30  0 23.400000000000002  0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 140 238 )" class="stroke" mask="url(#Clip96)" />
+    <path d="M 15 30  C 6.6 30  0 23.400000000000002  0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  Z " fill-rule="nonzero" fill="url(#LinearGradient371)" stroke="none" transform="matrix(1 0 0 1 140 238 )" class="fill" />
+    <path d="M 15 30  C 6.6 30  0 23.400000000000002  0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 140 238 )" class="stroke" mask="url(#Clip374)" />
   </g>
 </svg>
