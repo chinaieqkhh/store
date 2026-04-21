@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="36px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="18" x2="360" y2="18" id="LinearGradient357">
-      <stop id="Stop358" stop-color="#ff242a" stop-opacity="0.8" offset="0" />
-      <stop id="Stop359" stop-color="#ff9d4c" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="18" x2="360" y2="18" id="LinearGradient451">
+      <stop id="Stop452" stop-color="#ff242a" stop-opacity="0.8" offset="0" />
+      <stop id="Stop453" stop-color="#ff9d4c" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip360">
+    <mask fill="white" id="Clip454">
       <path d="M 0 26  L 0 10  C 0 4.3999999999999995  4.399999999999999 0  10 0  L 350 0  C 355.59999999999997 0  360 4.3999999999999995  360 10  L 360 26  C 360 31.6  355.59999999999997 36  350 36  L 10 36  C 4.399999999999999 36  0 31.6  0 26  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 0 -165 )">
-    <path d="M 0 26  L 0 10  C 0 4.3999999999999995  4.399999999999999 0  10 0  L 350 0  C 355.59999999999997 0  360 4.3999999999999995  360 10  L 360 26  C 360 31.6  355.59999999999997 36  350 36  L 10 36  C 4.399999999999999 36  0 31.6  0 26  Z " fill-rule="nonzero" fill="url(#LinearGradient357)" stroke="none" transform="matrix(1 0 0 1 0 165 )" class="fill" />
-    <path d="M 0 26  L 0 10  C 0 4.3999999999999995  4.399999999999999 0  10 0  L 350 0  C 355.59999999999997 0  360 4.3999999999999995  360 10  L 360 26  C 360 31.6  355.59999999999997 36  350 36  L 10 36  C 4.399999999999999 36  0 31.6  0 26  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 0 165 )" class="stroke" mask="url(#Clip360)" />
+    <path d="M 0 26  L 0 10  C 0 4.3999999999999995  4.399999999999999 0  10 0  L 350 0  C 355.59999999999997 0  360 4.3999999999999995  360 10  L 360 26  C 360 31.6  355.59999999999997 36  350 36  L 10 36  C 4.399999999999999 36  0 31.6  0 26  Z " fill-rule="nonzero" fill="url(#LinearGradient451)" stroke="none" transform="matrix(1 0 0 1 0 165 )" class="fill" />
+    <path d="M 0 26  L 0 10  C 0 4.3999999999999995  4.399999999999999 0  10 0  L 350 0  C 355.59999999999997 0  360 4.3999999999999995  360 10  L 360 26  C 360 31.6  355.59999999999997 36  350 36  L 10 36  C 4.399999999999999 36  0 31.6  0 26  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 0 165 )" class="stroke" mask="url(#Clip454)" />
   </g>
 </svg>
