@@ -10,10 +10,11 @@
   line-height:normal;
   text-transform:none;
 }
-._图片 {
+.box_1 {
 }
-.primary_button {
-  color:#FFFFFF;
+.box_2 {
+}
+._图片 {
 }
 ._一级标题 {
   font-family:"Arial Normal", "Arial", sans-serif;
@@ -73,49 +74,19 @@
 ._便签1 {
   text-align:left;
 }
-.marker {
-  color:#FFFFFF;
+.icon {
 }
-.form_disabled {
+.form_hint {
+  color:#999999;
 }
-.box_1 {
+.image {
 }
-.box_2 {
-}
-.ellipse {
-}
-.line {
-}
-.radio_button {
-  text-align:left;
-}
-.label1 {
-  font-size:14px;
-  text-align:left;
+.shape {
 }
 .text_field {
   color:#000000;
   text-align:left;
 }
-.box_3 {
-}
-.image {
-  color:#000000;
-}
-._形状 {
-  font-family:"Arial Normal", "Arial", sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#FF3948;
-  text-align:center;
-  line-height:normal;
-}
-._图像 {
-}
-._段落1 {
-  text-align:left;
-}
-.icon {
+.ellipse {
 }
 textarea, select, input, button, div, svg { outline: none; }
