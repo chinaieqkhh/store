@@ -78,7 +78,17 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
+}
+._连接线 {
 }
 .snapshot {
 }
